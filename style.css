@@ -1,0 +1,21 @@
+
+header{
+  border: red;
+  border-style: solid;
+
+}
+
+#playa{
+  border: orange;
+  border-style: solid;
+}
+
+#la{
+  border: yellow;
+  border-style: solid;
+}
+
+#las{
+  border: green;
+  border-style: solid;
+}
