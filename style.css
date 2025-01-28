@@ -5,6 +5,8 @@
 
 body{
   background-color: rgb(192, 234, 255);
+  border: 95px whitesmoke solid;
+  margin: 0;
 }
 
 header{
@@ -13,7 +15,9 @@ header{
 
   display: grid;
   margin: auto;
-  background-color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: whitesmoke;
   border-radius: 20px;
   text-align: center;
   width: 50%;
@@ -35,6 +39,7 @@ section{
   display: grid;
   text-align: justify;
   margin: auto;
+  font-size: large;
   width: 50%;
   padding: 25px;
   margin-top: 155px;
@@ -110,6 +115,6 @@ section{
 }
 
 footer{
-  background-color: white;
+  background-color: rgb(192, 234, 255);
   text-align: center;
 }
