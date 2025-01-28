@@ -27,17 +27,6 @@ section{
   flex: 2;
 }
 
-h2{
-  border: purple;
-  border-style: solid;
-
-  display: grid;
-  margin: auto;
-  text-align: justify;
-  padding: 10px;
-  color: black;
-}
-
 .description{
   border: black;
   border-style: solid;
@@ -62,6 +51,17 @@ h2{
   }
  }
 
+.carmen{
+  border: purple;
+  border-style: solid;
+
+  display: grid;
+  margin-left: 65px;
+  text-align: justify;
+  padding: 10px;
+  color: black;
+}
+
 #la{
   border: blue;
   border-style: solid;
@@ -74,6 +74,17 @@ h2{
   }
 }
 
+.cali{
+  border: yellow;
+  border-style: solid;
+
+  display: grid;
+  margin-right: 75px;
+  text-align: right;
+  padding: 10px;
+  color: black;
+}
+
 #las{
   border: green;
   border-style: solid;
@@ -84,6 +95,17 @@ h2{
     float: left;
     margin-left: 35px;
   }
+}
+
+.nevada{
+  border: white;
+  border-style: solid;
+
+  display: grid;
+  margin-left: 105px;
+  text-align: justify;
+  padding: 10px;
+  color: black;
 }
 
 footer{
