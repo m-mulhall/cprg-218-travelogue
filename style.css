@@ -10,8 +10,6 @@ body{
 }
 
 header{
-  border: red;
-  border-style: solid;
 
   display: grid;
   margin: auto;
@@ -33,8 +31,6 @@ section{
 }
 
 .description{
-  border: black;
-  border-style: solid;
   
   display: grid;
   text-align: justify;
@@ -46,8 +42,7 @@ section{
 }
 
 #playa{
-  border: orange;
-  border-style: solid;
+
   img{
     width: 350px;
     height: 500px;
@@ -58,9 +53,7 @@ section{
  }
 
 .carmen{
-  border: purple;
-  border-style: solid;
-
+  
   display: grid;
   margin-left: 65px;
   text-align: justify;
@@ -69,8 +62,7 @@ section{
 }
 
 #la{
-  border: blue;
-  border-style: solid;
+  
   img{
     width: 350px;
     height: 500px;
@@ -81,9 +73,7 @@ section{
 }
 
 .cali{
-  border: yellow;
-  border-style: solid;
-
+  
   display: grid;
   margin-right: 75px;
   text-align: right;
@@ -92,8 +82,7 @@ section{
 }
 
 #las{
-  border: green;
-  border-style: solid;
+
   img{
     width: 350px;
     height: 500px;
@@ -104,9 +93,7 @@ section{
 }
 
 .nevada{
-  border: white;
-  border-style: solid;
-
+  
   display: grid;
   margin-left: 105px;
   text-align: justify;
