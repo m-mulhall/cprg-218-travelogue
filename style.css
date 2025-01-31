@@ -42,16 +42,13 @@ section{
   margin-top: 155px;
 }
 
-#playa{
-
-  img{
+#playa img{
     width: 350px;
     height: 500px;
     border-radius: 10px;
     float: left;
     margin-left: 35px;
   }
- }
 
 .carmen{
   
@@ -62,15 +59,12 @@ section{
   color: black;
 }
 
-#la{
-  
-  img{
+#la img{
     width: 350px;
     height: 500px;
     border-radius: 10px;
     float: right;
     margin-right: 35px;
-  }
 }
 
 .cali{
@@ -82,16 +76,13 @@ section{
   color: black;
 }
 
-#las{
-
-  img{
+#las img{
     width: 350px;
     height: 500px;
     border-radius: 10px;
     float: left;
     margin-left: 35px;
   }
-}
 
 .nevada{
   
